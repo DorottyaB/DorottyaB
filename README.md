@@ -3,11 +3,14 @@
 
 - 🌱 I’m currently learning **TypeScript and GraphQL**
 
+- 👨‍💻 All of my projects are available at [portfolio-dorottyab.vercel.app/](https://portfolio-dorottyab.vercel.app/)
+
 - 📫 How to reach me **bdorottya20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dorottya_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dorottya_22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dorottya-balogh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dorottya-balogh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
