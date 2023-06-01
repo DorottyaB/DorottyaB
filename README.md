@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript and GraphQL**
 
-- 👨‍💻 My portfolio is available at **[dorottyab.vercel.app/](https://portfolio-dorottyab.vercel.app/)**
+- 👨‍💻 My portfolio is available at **[dorottya-dev.netlify.app](https://dorottya-dev.netlify.app/)**
 
 - 📫 How to reach me **bdorottya20@gmail.com**
 
