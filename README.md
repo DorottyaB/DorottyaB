@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dorottya</h1>
-<h3 align="center">I enjoy turning a beautiful design into a user-friendly, scalable and</br>accessible website while solving problems along the way.</h3>
+<h3 align="center">Passionate about transforming stunning designs into intuitive, responsive websites, I thrive on overcoming challenges and creating seamless user experiences.</h3>
 
 - 🌱 I’m currently learning **TypeScript and GraphQL**
 
