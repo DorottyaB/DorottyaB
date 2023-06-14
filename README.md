@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dorottya</h1>
-<h3 align="center">Passionate about transforming stunning designs into intuitive, responsive websites, I thrive on overcoming challenges and creating seamless user experiences.</h3>
+<h3 align="center">Passionate about transforming stunning designs into intuitive, responsive websites, I thrive on overcoming challenges and creating seamless user experiences. Seeking opportunities to contribute to innovative projects and continuously expand my technical expertise in a collaborative environment.</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
