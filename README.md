@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [dorottya-dev.netlify.app](https://dorottya-dev.netlify.app/)
+- 👨‍💻 My portfolio is available at [dorottya-dev.netlify.app](https://dorottya-dev.netlify.app/)
 
 - 📫 How to reach me **bdorottya20@gmail.com**
 
